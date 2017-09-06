@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Trytodo7</string>
+    <string name="login">确定</string>
+    <string name="cancell">取消</string>
+</resources>
